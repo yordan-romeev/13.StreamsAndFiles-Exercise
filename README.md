@@ -2,19 +2,19 @@
 
 Java Streams and Files Excercises
 
-1.	Word Lengths	1
-2.	Character Frequency	1
-3.	Replace Word	2
-4.	Count Lines, Words, and Characters	2
-5.	Extract File	2
-6.	Reverse Lines	3
-7.	6. Count Unique Words	3
-8.	7. Merge Lines from Two Files	4
-9.	Calculate Directory Size	4
-10.	Copy File Content	5
-11.	Serialize and Deserialize Map	5
-12.	*Serialize Custom Object List	5
-13.	*Extract Specific Files from Zip Archive	5
+1.	Word Lengths	
+2.	Character Frequency	
+3.	Replace Word	
+4.	Count Lines, Words, and Characters	
+5.	Extract File	
+6.	Reverse Lines	
+7.	Count Unique Words	
+8.	Merge Lines from Two Files	
+9.	Calculate Directory Size	
+10.	Copy File Content	
+11.	Serialize and Deserialize Map	
+12.	*Serialize Custom Object List	
+13.	*Extract Specific Files from Zip Archive	
 
 Word Lengths
 Write a program that reads a text file ("input.txt") and prints on the console the length of each word in the file. Use BufferedReader in combination with FileReader.
