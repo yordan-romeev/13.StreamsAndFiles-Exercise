@@ -1,0 +1,5 @@
+Write a program that copies the content of a text file ("input.txt") to another file ("output.txt") using BufferedInputStream and BufferedOutputStream.
+Hints:
+Use try-with-resources to handle the files.
+Use BufferedInputStream and BufferedOutputStream for reading and writing the file content.
+Test Test
